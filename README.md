@@ -21,6 +21,6 @@
 
 #
 
-[![The Right Way to Build an MVP](https://ytcards.demolab.com/?id=jpQJ8aOThNY&title=The+Right+Way+to+Build+an+MVP&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "The Right Way to Build an MVP")](https://www.youtube.com/watch?v=jpQJ8aOThNY)
+[![The Right Way to Build an MVP](https://ytcards.demolab.com/?id=jpQJ8aOThNY&title=The+Right+Way+to+Build+an+MVP&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "The Right Way to Build an MVP")](https://github.com/Sebasssssss/PersonalBlog-PHP-Based-on-Takuya-CDN/blob/main/frontend/images/project.png?raw=true)
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
