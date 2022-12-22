@@ -21,7 +21,7 @@
 
 #
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend))](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515))](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)]
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Sebasssssss&repo=PersonalBlog-PHP-Takuya-WhatIUse&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)]
 
