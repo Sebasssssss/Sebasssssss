@@ -1,4 +1,3 @@
-**`Developer learning by my own (Developer/design)`**
 <p align="center" width="300">
    <img align="center" width="300" src="https://github.com/Sebasssssss/IMAGES/blob/main/red%20pandaa.png?raw=true" />
    <h3 align="center">Hey there! I'm Sebass 🦊</h3>
@@ -18,3 +17,8 @@
    <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
+
+---
+**`Developer learning by my own (Developer/design)`**
+
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
