@@ -28,7 +28,7 @@
 
 # Socials
 <a href="https://www.instagram.com/thechonkypenguin">
-    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+    <img height="32" align="left" alt="Instagram" src="https://github.com/cszach/cszach/blob/master/img/icons/instagram.png?raw=true" />
 </a>
 
 #
