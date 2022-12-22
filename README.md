@@ -12,7 +12,7 @@
 
 ---
 
-### <h3 align="center">⌨️ Languages</h3>
+### <h3 align="center">⌨️ Languages and other techs!</h3>
 <div align="center">
    <img alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
    <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
