@@ -1,4 +1,4 @@
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Developer learning by my own (Developer/design)`**
 <p align="center" width="300">
    <img align="center" width="300" src="https://github.com/Sebasssssss/IMAGES/blob/main/red%20pandaa.png?raw=true" />
    <h3 align="center">Hey there! I'm Sebass 🦊</h3>
