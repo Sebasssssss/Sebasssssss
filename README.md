@@ -18,6 +18,7 @@
    <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
+
 #
 
 [![The Right Way to Build an MVP](https://ytcards.demolab.com/?id=jpQJ8aOThNY&title=The+Right+Way+to+Build+an+MVP&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "The Right Way to Build an MVP")](https://www.youtube.com/watch?v=jpQJ8aOThNY)
