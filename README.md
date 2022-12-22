@@ -26,6 +26,13 @@
 
 #
 
+# Socials
+<a href="https://www.instagram.com/thechonkypenguin">
+    <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
+</a>
+
+#
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=0b657f&icon_color=89729f&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=PersonalBlog-PHP-Takuya-WhatIUse&title_color=0b657f&icon_color=89729f&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/PersonalBlog-PHP-Takuya-WhatIUse)
 
