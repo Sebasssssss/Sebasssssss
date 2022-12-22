@@ -3,7 +3,7 @@
    <img align="center" width="300" src="https://github.com/Sebasssssss/IMAGES/blob/main/red%20pandaa.png?raw=true" />
    <h3 align="center">Hey there! I'm Sebass 🦊</h3>
 </p>
-<p align="center">Started learning PHP and now I'm fully immersed on learning javascript for React </p>
+<p align="center">Started learning PHP and now I'm fully immersed on learning javascript for React! </p>
 
 ---
 
