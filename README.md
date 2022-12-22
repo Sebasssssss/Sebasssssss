@@ -30,8 +30,3 @@ I'm an indie full-stack developer and content creator building my version of the
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasssssss&layout=compact&title_color=0b657f&icon_color=f9f9f9&text_color=9f9f9f&bg_color=1f1928&hide_border=true)](https://github.com/Sebasssssss/github-readme-stats)
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1f1928&title_color=0b657f&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-
