@@ -1,7 +1,3 @@
-<p align="right" width="300">
-   <img align="center" width="300"           src="https://github.com/Sebasssssss/IMAGES/blob/main/voy%20a%20precentarles%20a%20rojiza%20mi%20panda%20rojo%20de%20peluche%F0%9F%98%8D.png?raw=true" />
-   <h3 align="center">Hey there! I'm Sebass 🦊</h3>
-</p>
 <p align="center" width="300">
    <img align="center" width="300" src="https://github.com/Sebasssssss/IMAGES/blob/main/red%20pandaa.png?raw=true" />
    <h3 align="center">Hey there! I'm Sebass 🦊</h3>
