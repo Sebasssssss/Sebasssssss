@@ -5,7 +5,7 @@
 
 <p align="center">Learned PHP and now I'm fully immersed on learning javascript for React </p>
 
-#
+---
 
 ### 🧰 Languages and Tools
 
