@@ -26,13 +26,6 @@
 
 #
 
-### <h3 align="center">⌨️ Socials</h3>
-<a align="center" href="https://www.instagram.com/sebassssss">
-    <img height="32" align="center" alt="Instagram" src="https://github.com/cszach/cszach/blob/master/img/icons/instagram.png?raw=true" />
-</a>
-
-#
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=0b657f&icon_color=89729f&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=PersonalBlog-PHP-Takuya-WhatIUse&title_color=0b657f&icon_color=89729f&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/PersonalBlog-PHP-Takuya-WhatIUse)
 
