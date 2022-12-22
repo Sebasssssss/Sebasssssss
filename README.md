@@ -21,17 +21,17 @@
 
 #
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=0b657f&icon_color=f9f9f9&text_color=ffffff&bg_color=393347&hide_border=true))](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=0b657f&icon_color=f9f9f9&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=PersonalBlog-PHP-Takuya-WhatIUse&title_color=0b657f&icon_color=f9f9f9&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/PersonalBlog-PHP-Takuya-WhatIUse)
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasssssss&layout=compact&title_color=2b94ba&icon_color=f9f9f9&text_color=9f9f9f&bg_color=1F222E)](https://github.com/Sebasssssss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasssssss&layout=compact&title_color=2b94ba&icon_color=f9f9f9&text_color=9f9f9f&bg_color=1f1928)](https://github.com/Sebasssssss/github-readme-stats)
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=2b94ba&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1f1928&title_color=2b94ba&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
