@@ -27,7 +27,7 @@
 #
 
 ### <h3 align="center">⌨️ Socials</h3>
-<a href="https://www.instagram.com/sebassssss">
+<a align="center" href="https://www.instagram.com/sebassssss">
     <img height="32" align="center" alt="Instagram" src="https://github.com/cszach/cszach/blob/master/img/icons/instagram.png?raw=true" />
 </a>
 
