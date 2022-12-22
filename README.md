@@ -36,6 +36,6 @@ I'm a developer who's learning programing by my own. I program using php to make
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasssssss&layout=compact&title_color=0b657f&icon_color=f9f9f9&text_color=ffffff&bg_color=1f1928&hide_border=true)](https://github.com/Sebasssssss/github-readme-stats)
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1f1928&border_color=ffffff)](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y)
 </div>
-0d1117
+
