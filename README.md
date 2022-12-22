@@ -3,7 +3,6 @@
    <img align="center" width="300" src="https://github.com/Sebasssssss/IMAGES/blob/main/red%20pandaa.png?raw=true" />
    <h3 align="center">Hey there! I'm Sebass 🦊</h3>
 </p>
-<p align="center">Started learning PHP and now I'm fully immersed on learning javascript for React! </p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -30,7 +29,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=0b657f&icon_color=89729f&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=PersonalBlog-PHP-Takuya-WhatIUse&title_color=0b657f&icon_color=89729f&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/PersonalBlog-PHP-Takuya-WhatIUse)
 
-I'm a developer who's learning programing by my own. I program using php to make my websites and trying to become better everyday. I'm learning as much as i can php so i can understand it the best way and make my websites as clean and functional as possible. Nowadays I'm learning React because out of all the languages and frameworks i've seen, its the one that i enjoy and like the most! 
+I'm a developer who's learning programing by my own. I program using php to make my websites and trying to become better everyday. I learned php for almost 8 months with courses, youtube vids, streams and trying to implement my ideas to the code. Nowadays I'm learning React because out of all the languages and frameworks i've seen, it's the one that i enjoy and like the most! 
 
 #
 
