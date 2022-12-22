@@ -24,7 +24,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=0b657f&icon_color=89729f&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=PersonalBlog-PHP-Takuya-WhatIUse&title_color=0b657f&icon_color=89729f&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/PersonalBlog-PHP-Takuya-WhatIUse)
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+I'm a developer who's learning programing by my own. I program using php to make my websites and trying to become better everyday. I'm learning as much as i can php so i can understand it the best way and make my websites as clean and functional as possible. Nowadays I'm learning React because out of all the languages and frameworks i've seen, its the one that i enjoy and like the most! 
 
 #
 
