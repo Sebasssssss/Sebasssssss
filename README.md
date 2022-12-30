@@ -35,7 +35,7 @@ I'm a developer who's learning programing by my own. I program using php to make
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasssssss&layout=compact&title_color=0b657f&icon_color=f9f9f9&text_color=ffffff&bg_color=1f1928&hide_border=true)](https://github.com/Sebasssssss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasssssss&layout=compact&title_color=31748f&icon_color=f9f9f9&text_color=ffffff&bg_color=1f1928&hide_border=true)](https://github.com/Sebasssssss/github-readme-stats)
 
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
