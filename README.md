@@ -12,7 +12,7 @@
 
 ---
 
-### <h3 align="center">⌨️ Languages and other techs!</h3>
+### <h3 align="center" color="#e0def4">⌨️ Languages and other techs!</h3>
 <div align="center">
    <img alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
    <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -35,7 +35,7 @@ I'm a developer who's learning programing by my own. I program using php to make
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasssssss&layout=compact&title_color=31748f&icon_color=f9f9f9&text_color=ffffff&bg_color=1f1928&hide_border=true)](https://github.com/Sebasssssss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasssssss&layout=compact&title_color=31748f&icon_color=f9f9f9&text_color=e0def4&bg_color=1f1928&hide_border=true)](https://github.com/Sebasssssss/github-readme-stats)
 
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
