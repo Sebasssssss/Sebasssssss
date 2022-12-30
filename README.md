@@ -1,7 +1,7 @@
 **`Developer, learning by my own programming/design`**
 <p align="center" width="300">
    <img align="center" width="300" src="https://github.com/Sebasssssss/Sebasssssss/blob/main/red%20pandaa.png?raw=true" />
-   <h3 align="center" style="color: #e0def4">Hey there! I'm Sebass 🦊</h3>
+   <h3 align="center">Hey there! I'm Sebass 🦊</h3>
 </p>
 
 <p align="center">
@@ -31,9 +31,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=31748f&icon_color=89729f&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=PersonalBlog-PHP-Takuya-WhatIUse&title_color=31748f&icon_color=89729f&text_color=ffffff&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/PersonalBlog-PHP-Takuya-WhatIUse)
 
-<p style="color: #f6c177">
-   I'm a developer who's learning programing by my own. I program using php to make my websites and trying to become better everyday. I learned php for almost 8 months with courses, youtube vids, streams and trying to implement my ideas to the code. Nowadays I'm learning React because out of all the languages and frameworks i've seen, it's the one that i enjoy and like the most! 
-</p>
+I'm a developer who's learning programing by my own. I program using php to make my websites and trying to become better everyday. I learned php for almost 8 months with courses, youtube vids, streams and trying to implement my ideas to the code. Nowadays I'm learning React because out of all the languages and frameworks i've seen, it's the one that i enjoy and like the most! 
 
 #
 
