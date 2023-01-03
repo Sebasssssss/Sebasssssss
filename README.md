@@ -44,7 +44,7 @@ I'm a developer who's learning programing by my own. I program using php to make
   </a>
 </p>
 
- <div align="center">
+ <!-- &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1f1928&text_color=e0def4)](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y)
 </div>
-
+-->
