@@ -17,7 +17,7 @@
    <img alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
    <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
-   <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <!-- <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> -->
    <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
    <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -31,7 +31,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=PersonalBlog-PHP-Takuya-WhatIUse&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/PersonalBlog-PHP-Takuya-WhatIUse)
 
-I'm a developer who's learning programing by my own. I program using php to make my websites and trying to become better everyday. I learned php for almost 8 months with courses, youtube vids, streams and trying to implement my ideas to the code. Nowadays I'm learning React because out of all the languages and frameworks i've seen, it's the one that i enjoy and like the most! 
+I'm a developer who's learning programing by my own. I program using php to make my websites and i am trying to become better everyday. I learned php for almost 8 months with courses, youtube vids, streams and try to implement my ideas to the code. Nowadays I'm learning React because out of all the languages and frameworks i've seen, it's the one that i enjoy and like the most! 
 
 #
 
