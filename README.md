@@ -1,6 +1,6 @@
 **`Developer, learning by my own programming/design`**
 <p align="center" width="300">
-   <img align="center" width="300" src="https://github.com/Sebasssssss/Sebasssssss/blob/main/redpanda.png?raw=true" />
+   <img align="center" width="300" src="https://github.com/Sebasssssss/Sebasssssss/blob/main/red%20pandaa.png?raw=true" />
    <h3 align="center">Hey there! I'm Sebass 🦊</h3>
 </p>
 
