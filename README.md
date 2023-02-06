@@ -32,7 +32,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=sebass-homepage&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/sebass-homepage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Giffy.app&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/Giffy.app)
 
-I'm a developer who's learning programing by my own. I program using php to make my websites and i am trying to become better everyday. I learned php for almost 8 months with courses, youtube vids, streams and try to implement my ideas to the code. Nowadays I'm learning React because out of all the languages and frameworks i've seen, it's the one that i enjoy and like the most! 
+I'm a developer who's learning programing by my own. I program using php to make my websites and i am trying to become better everyday. I learned php for a couple months with courses, youtube vids, streams and learned how to implement my ideas to the code. Nowadays I'm learning React because out of all the languages and frameworks i've seen, it's the one that i enjoy and like the most! 
 
 #
 
