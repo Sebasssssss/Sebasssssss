@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasssssss&layout=compact&title_color=31748f&icon_color=f9f9f9&text_color=e0def4&bg_color=1f1928&hide_border=true)](https://github.com/Sebasssssss/github-readme-stats)
 
-<!-- soon soon -->
+<!-- soon soon soon -->
 <p align="center">
   <a href="https://readme.andyruwruw.com/api/now-playing?open">
     <img src="https://readme.andyruwruw.com/api/now-playing">
