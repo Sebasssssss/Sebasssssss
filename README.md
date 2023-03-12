@@ -1,4 +1,4 @@
-**`Developer, learning by my own programming`**
+**`Developer, learning programming by my own`**
 <p align="center" width="300">
    <img align="center" width="300" src="https://github.com/Sebasssssss/Sebasssssss/blob/main/redpanda.png?raw=true" />
    <h3 align="center">Hey there! I'm Sebass 🦊</h3>
