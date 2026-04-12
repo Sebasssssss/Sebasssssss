@@ -1,4 +1,5 @@
 **`Developer, learning programming by my own`**
+
 <p align="center" width="300">
    <img align="center" width="300" src="https://github.com/Sebasssssss/Sebasssssss/blob/main/redpanda.png?raw=true" />
    <h3 align="center">Hey there! I'm Sebass 🦊</h3>
@@ -6,12 +7,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Working+on+web+development;Coding+javascript+for+React!&font=Fira%20Code&center=true&width=440&height=45&color=daa35f&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Working+on+web+development;Coding+javascript+for+React!&font=Fira%20Code&center=true&width=440&height=45&color=daa35f&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
 
 ---
 
-### <h3 align="center" color="e0def4">⌨️ Languages and other techs!</h3>
+<h3 align="center">⌨️ Languages and other techs!</h3>
+
 <div align="center">
    <img alt="php" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
    <img alt="mysql" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -27,11 +30,10 @@
 
 #
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=PersonalBlog-PHP-Takuya-WhatIUse&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/PersonalBlog-PHP-Takuya-WhatIUse)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=sebass-homepage&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/sebass-homepage)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Giffy.app&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true))](https://github.com/Sebasssssss/Giffy.app)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Football-Wbsite-Frontend-Backend&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true)](https://github.com/Sebasssssss/Football-Wbsite-Frontend-Backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=PersonalBlog-PHP-Takuya-WhatIUse&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true)](https://github.com/Sebasssssss/PersonalBlog-PHP-Takuya-WhatIUse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=sebass-homepage&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true)](https://github.com/Sebasssssss/sebass-homepage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sebasssssss&repo=Giffy.app&title_color=31748f&icon_color=89729f&text_color=e0def4&bg_color=1f1928&hide_border=true)](https://github.com/Sebasssssss/Giffy.app)
 
 #
 
