@@ -17,4 +17,3 @@ relax, write some code, enjoy life, and remember who you are ✌️
 
 Oh, and Vim. Always Vim. There's no going back once you drink the kool-aid.
 
-![preview](/edited_gradient_animated.gif)
