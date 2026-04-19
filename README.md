@@ -10,7 +10,7 @@ Most of what I'm working on lives behind closed doors for now — projects move
 at their own pace and I'd rather share something worth sharing. Once I hit MVP
 on anything, you'll hear about it. Until then, it's all just fuel for learning.
 
-Feel free to poke around at [sebass.vercel.app](https://sebass.vercel.app) in the meantime.
+Feel free to poke around at [sebass](https://sebass.vercel.app) in the meantime.
 
 ### Vibe check
 relax, write some code, enjoy life, and remember who you are ✌️
